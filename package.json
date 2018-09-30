@@ -1,0 +1,30 @@
+{
+  "name": "locationgame",
+  "version": "1.0.0",
+  "description": "Location game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulineOC/LocationGame.git"
+  },
+  "author": "Pauline & Abhinav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulineOC/LocationGame/issues"
+  },
+  "homepage": "https://github.com/PaulineOC/LocationGame#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.4"
+  }
+}
